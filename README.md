@@ -20,3 +20,9 @@ As Timing is very critical (a bit read from the controller takes only 4uS !) I d
 
 Yes you will have to edit the Pins used in the file `PinMappings.h` to match the Pins you wired everything up with. The Axis pins have to be connected to the correct Wires coming from the Joystick. For that is adviced to cut the Joystick cable in half and connect the X-Axis pins to the pins labeled 1 & 4 of the Joystick PCB and the Y-Axis pins to the pins labeled 5 & 6.
 
+### Changelog:
+
+13.04.2020:
+	- moved source code to `src` folder
+	- added precompiled binaries for Heltec WiFi LoRa 32 V2 to folder `bin`
+
