@@ -22,7 +22,7 @@ Yes you will have to edit the Pins used in the file `PinMappings.h` to match the
 
 ### Changelog:
 
-13.04.2020:
-	- moved source code to `src` folder
-	- added precompiled binaries for Heltec WiFi LoRa 32 V2 to folder `bin`
+13.04.2020:<br/>
+	- moved source code to `src` folder<br/>
+	- added precompiled binaries for Heltec WiFi LoRa 32 V2 to folder `bin`<br/>
 
