@@ -25,4 +25,5 @@ Yes you will have to edit the Pins used in the file `PinMappings.h` to match the
 13.04.2020:<br/>
 	- moved source code to `src` folder<br/>
 	- added precompiled binaries for Heltec WiFi LoRa 32 V2 to folder `bin`<br/>
+	- added first PCB Files (untested, just ordered them today)
 
