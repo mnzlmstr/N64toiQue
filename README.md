@@ -7,7 +7,7 @@ This is made worse by the fact that the inputs, such as the Buttons and the Joys
 
 The current code is working as intended and I played through the first Dungeons of Legen of Zelda - Ocarina of Time without any problems. However the Project is still a mess of wires, and not all Buttons have been hooked up yet. I intend to create a PCB to mount everything back into the origin casing and upload the Eagle Files to this repository, as well as to create assembly instructions and maybe also upload precompiled binaries.
 
-While the first PRB Revision appears to be working tight now i will look into improving the PCB to allow <br/>
+While the first PRB Revision appears to be working right now i will look into improving the PCB to allow <br/>
 the User to see if everything is in owrking Order by incorporating LEDs in the PCB as well as a header for 
 Programming, which as of right now has to be done beforehand.
 
@@ -33,5 +33,5 @@ Yes you will have to edit the Pins used in the file `PinMappings.h` to match the
 <br/>
 15.05.2020: <br/>
 	- PCB has been tested an appears to be working just fine<br/>
-	- redesigning PCB to incorporate LEDs for user feedback as well as Programming Header<br/>
+	- TODO: redesigning PCB to incorporate LEDs for user feedback as well as Programming Header<br/>
 <br/> 
