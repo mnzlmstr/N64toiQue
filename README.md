@@ -33,5 +33,7 @@ Yes you will have to edit the Pins used in the file `PinMappings.h` to match the
 <br/>
 15.05.2020: <br/>
 	- PCB has been tested an appears to be working just fine<br/>
+	- Add: Updater to be able to upload new firmware over HTTP hosted by ESP32
+	- Add: precompiled binary for firebeetle-esp32
 	- TODO: redesigning PCB to incorporate LEDs for user feedback as well as Programming Header<br/>
 <br/> 
